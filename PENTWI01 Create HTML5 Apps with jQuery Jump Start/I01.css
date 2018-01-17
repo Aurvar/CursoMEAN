@@ -1,0 +1,24 @@
+div {
+  margin: 2px;
+  font: bold 9pt "Segoe UI";
+}
+.parent {
+  border:solid 2px black;
+  color: black;
+}
+.title {
+  width: 180px;
+  border: solid 2px black;
+  color: darkblue;
+}
+.child {
+  border: solid 2px gray;
+  /*height: 120px;*/
+  color: gray;
+}
+span {
+}
+.instruction {
+  color: black;
+  font: bold 9pt "Segoe UI";
+}
